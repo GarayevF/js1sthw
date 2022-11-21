@@ -29,6 +29,5 @@
 
 // TASK 2
 
-// document.getElementById("title").style.color = "black";
 // var r = 4;
 // title.innerHTML = Math.PI*Math.pow(r, 2);
